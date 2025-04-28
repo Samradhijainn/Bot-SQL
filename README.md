@@ -17,3 +17,7 @@ Follow the steps below to set up the project on your local machine:
 - Python 3.x
 - Node.js and npm (for frontend)
 - Pinecone API Key (for vector database integration)
+
+## Project Screenshot
+
+![Screenshot of the Chatbot](assets/)
